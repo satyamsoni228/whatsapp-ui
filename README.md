@@ -1,16 +1,25 @@
 # whatsapp_ui
 
-A new Flutter project.
+A completely Responsive Whatsapp UI App- works on Android, iOS, Web & Desktop! Works as WhatsApp App on Smaller Screen Sizes and WhatsApp Web on Bigger Screen Sizes!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Deployment
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To deploy this project run
+
+```bash
+  flutter run
+```
+
+
+## Demo
+
+https://ui-whatsapp.netlify.app/#/
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at ssoni6149@gmail.com
+
